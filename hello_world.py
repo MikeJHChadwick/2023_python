@@ -69,3 +69,6 @@ for friend in friends:
 
     
 # testing_scope()
+
+def new_func():
+    print("new function")
